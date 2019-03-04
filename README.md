@@ -16,3 +16,6 @@ react-native link react-native-vector-icons
 if error go to 
 settings.gradle and replace "\" by "/"
 
+Run
+react-native run-android
+
